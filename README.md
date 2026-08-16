@@ -1,34 +1,50 @@
-## Saudações, desenvolvedores! 👋
-
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flavio088&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flavio088&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Fl%C3%A1vio%20Gomes&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/>
+
 </div>
 
-###
+## 🧠 Sobre mim
 
-###
+Oi, sou o **Flávio**! Sinto cada vez mais vontade de me tornar melhor naquilo que faço, e fico feliz em poder mostrar um pouco das minhas habilidades enquanto trilho essa jornada. 🚀
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+## 🚀 Projetos em destaque
 
-###
+| Projeto | Descrição |
+|---|---|
+| [**Controle-financeiro**](https://github.com/flavio088/Controle-financeiro) | Sistema em JavaScript para organizar receitas e despesas |
+| [**Finances**](https://github.com/flavio088/Finances) | Controle financeiro pessoal — registro de movimentações e saldo (em desenvolvimento) |
+| [**Workspace**](https://github.com/flavio088/Workspace) | Espaço de estudos, testes e experimentos |
 
-<div align="center">
-  <a href="https://www.instagram.com/flaviio_gmss/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    <a href = "mailto:flavio088gomes@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    <a href="https://www.linkedin.com/in/flaviogomes0808/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=flavio088&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=flavio088&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🔗 Conecte-se comigo
+
+<p>
+<a href="https://instagram.com/flaviio_gmss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:flavio088gomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/flaviogomes01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<sub>Feito com 💻 e alguns cafés</sub>
