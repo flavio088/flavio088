@@ -43,8 +43,19 @@ Oi, sou o **Flávio**! Sinto cada vez mais vontade de me tornar melhor naquilo q
 <a href="https://linkedin.com/in/flaviogomes01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/flavio088/flavio088/output/github-contribution-grid-snake.svg" />
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/flavio088/.github/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/flavio088/.github/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/flavio088/.github/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
