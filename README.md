@@ -31,7 +31,6 @@ Oi, sou o **Flávio**! Sinto cada vez mais vontade de me tornar melhor naquilo q
 ## 📊 Estatísticas do GitHub
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=flavio088&show_icons=true&theme=radical" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flavio088&theme=radical" height="165"/>
 </p>
 
@@ -43,3 +42,9 @@ Oi, sou o **Flávio**! Sinto cada vez mais vontade de me tornar melhor naquilo q
 <a href="mailto:flavio088gomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/flaviogomes01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/flavio088/flavio088/output/github-contribution-grid-snake.svg" />
+
+</div>
