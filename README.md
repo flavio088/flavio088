@@ -54,8 +54,8 @@ Oi, sou o **Flávio**! Sinto cada vez mais vontade de me tornar melhor naquilo q
       srcset="https://raw.githubusercontent.com/flavio088/.github/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/flavio088/.github/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
