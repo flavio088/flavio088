@@ -14,6 +14,7 @@ Oi, sou o **Flávio**! Sinto cada vez mais vontade de me tornar melhor naquilo q
 |---|---|
 | [**Controle-financeiro**](https://github.com/flavio088/Controle-financeiro) | Sistema em JavaScript para organizar receitas e despesas |
 | [**Finance**](https://github.com/flavio088/finance) | Controle financeiro pessoal — registro de movimentações e saldo |
+| [**Kikos-crm-chat**](https://github.com/flavio088/kikos-crm-chat) | Implementação de chat no CRM com suporte a mensagens e upload de arquivos, integrada ao fluxo de oportunidades |
 
 ---
 
