@@ -4,13 +4,23 @@
 
 </div>
 
-## 🧠 Sobre mim
-
-Oi, sou o **Flávio**! Sou **Desenvolvedor Backend Júnior**, formado em Análise e Desenvolvimento de Sistemas pela Uninassau. Trabalho principalmente com **TypeScript, Node.js e Effect-TS**, e também com React no front.
-
-Antes, passei pela **Ser Educacional** como Full Stack Júnior e pela **Lactalis do Brasil** como estagiário Full Stack.
-
-Sinto cada vez mais vontade de me tornar melhor naquilo que faço, e fico feliz em poder mostrar um pouco das minhas habilidades enquanto trilho essa jornada. 🚀
+## 🎯 Sobre mim
+ 
+```ts
+const flavio = {
+  role: "Desenvolvedor Backend Júnior @ Kikos Fitness",
+  location: "Jaboatão dos Guararapes, PE 🇧🇷",
+  education: "Análise e Desenvolvimento de Sistemas — Uninassau",
+ 
+  learning: ["Effect-TS", "Arquitetura de domínio", "Testes por propriedade"],
+ 
+  tech: {
+    backend: ["Node.js", "Express", "Effect"],
+    frontend: ["React", "TanStack", "Vite"],
+    database: ["PostgreSQL"],
+  },
+};
+```
 
 ## 🚀 Projetos em destaque
 
@@ -24,23 +34,22 @@ Sinto cada vez mais vontade de me tornar melhor naquilo que faço, e fico feliz 
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Effect.ts-7B61FF?style=for-the-badge&logo=effect&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,vite,postgres,html,css,bootstrap,git,github,linux,vscode&perline=14" alt="Tecnologias" />
 </p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio088&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
+</p>
+
+ <p>
+ <img height="165" src="https://github-readme-stats.vercel.app/api?username=flavio088&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
+</p>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flavio088&theme=radical" height="165"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=flavio088&theme=tokyonight&hide_border=true" alt="Sequência" />
 </p>
 
 ---
