@@ -8,7 +8,7 @@
  
 ```ts
 const flavio = {
-  role: "Desenvolvedor Backend Júnior @ Kikos Fitness",
+  role: "Desenvolvedor FullStack @ Kikos Fitness",
   location: "Jaboatão dos Guararapes, PE 🇧🇷",
   education: "Análise e Desenvolvimento de Sistemas — Uninassau",
  
